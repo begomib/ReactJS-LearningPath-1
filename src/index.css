@@ -1,0 +1,27 @@
+body {
+ padding: 20px;
+}
+
+button {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+
+    border-bottom: 10px;
+}
+
+.btn-primary{
+
+  color:whitesmoke;
+  margin: 5px;
+
+}
+
+
+input{
+  margin-top: 5px;
+}
+
+.SimpleForm{
+
+  margin-top: 10px;
+}

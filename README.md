@@ -2,17 +2,22 @@
 
 Este es mi repositorio del proyecto de GifExpertApp de React 
 
-Hasta Unidad 7  
 
-el proyecto esta en vite y en npm
-npm run dev
+Unidad 9  
+
+el proyecto esta en yarn 
 localhost3000
 
-github pages:
+instalacion previa
+en consola :
+yarn create vite / react/
+una vez creado el archivo
+en consola:
+en la carpeta/ yarn (se instala las dependencias) code .
 
-https://begomib.github.io/react-desde-unidad6/
 
 
-netlify:
 
-https://gif-begona-react-unidad7.netlify.app/
+
+
+
